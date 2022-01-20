@@ -1,0 +1,35 @@
+header{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+table{
+	width: 100%;
+}
+nav a{
+display: block;	
+text-align: center;	
+}
+nav a img{
+	max-width: 100%;
+}
+
+.left, 
+.right{
+	width: 15%;
+}
+
+.content{
+	width: 70%;
+}
+
+.right{
+	text-align: center;
+}
+
+hr{
+	width: 50%;
+}
+
